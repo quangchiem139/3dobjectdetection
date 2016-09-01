@@ -1,0 +1,13 @@
+support_size = 0.05
+max_corr_dist = 0.150674 
+min_corr_dist = 0.13 
+icp_corr_distance = 0.015
+sac_inliers = 0.2
+model_angularResolution = 0.4
+scene_angularResolution = 0.4
+median_factor = 10 
+rejection_angle = 180 
+================ For Validation after Transform ==============
+validation_score_max = 0.63 
+validation_score_min = 0.61
+feature_distance_model_scene = 0.01
