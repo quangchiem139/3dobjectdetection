@@ -1,0 +1,1 @@
+/home/ctquangdn89/pcl-projects/ni_viewer/build/CMakeFiles/openni_viewer_simple.dir

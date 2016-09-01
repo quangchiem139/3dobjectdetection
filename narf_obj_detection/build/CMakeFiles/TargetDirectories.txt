@@ -1,1 +1,0 @@
-/home/ctquangdn89/pcl-projects/narf_obj_detection/build/CMakeFiles/range_img_obj_detection.dir
